@@ -8,7 +8,7 @@ public class MainCircles extends JFrame {
     private static final int POS_Y = 200;
     private static final int WINDOW_WIDTH = 800;
     private static final int WINDOW_HEIGHT = 600;
-
+    private static final int CH_BG_COLOR_INTERVAL = 2; //интервал смена фона в секундах
     Sprite[] sprites = new Sprite[10];
 
     public static void main(String[] args) {
@@ -28,6 +28,10 @@ public class MainCircles extends JFrame {
         add(canvas, BorderLayout.CENTER);
         setTitle("Circles");
         setVisible(true);
+    }
+
+    public int getChBgColorInterval() {
+        return CH_BG_COLOR_INTERVAL;
     }
 
     private void initApplication() {
