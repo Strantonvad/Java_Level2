@@ -7,6 +7,7 @@ public class GameCanvas extends JPanel {
 
     MainCircles gameController;
     long lastFrameTime;
+    Background bg = new Background(System.nanoTime());
 
     GameCanvas(MainCircles gameController) {
         this.gameController = gameController;
@@ -21,6 +22,7 @@ public class GameCanvas extends JPanel {
         float deltaTime = (currentTime - lastFrameTime) * 0.000000001f;
         gameController.onDrawFrame(this, g, deltaTime);
         lastFrameTime = currentTime;
+        this.setBackground(bg.getBackgroundColor(currentTime, gameController.getChBgColorInterval()));
         try {
             Thread.sleep(16);
         } catch (InterruptedException e) {
