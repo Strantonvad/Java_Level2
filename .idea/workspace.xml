@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3ccf6067-64c5-445d-9110-ec60aa294889" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/gb/jtwo/lthree/online/collections/MainClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/gb/jtwo/lthree/online/collections/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/gb/jtwo/lthree/online/collections/PhoneBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/gb/jtwo/lfour/online/ChatServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/gb/jtwo/lfour/online/ClientGUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/gb/jtwo/lfour/online/ServerGUI.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,9 +45,9 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="experimental" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.MainClass (1)">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ru.gb.jtwo.lone.online.Main" />
       <module name="Stream200116" />
@@ -102,7 +102,6 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MainClass (1)" />
         <item itemvalue="Application.MainClass" />
         <item itemvalue="Application.MainCircles" />
         <item itemvalue="Application.Main" />
@@ -134,6 +133,8 @@
       <workItem from="1579344815303" duration="12841000" />
       <workItem from="1579720794246" duration="49000" />
       <workItem from="1579720917488" duration="243000" />
+      <workItem from="1580239230765" duration="292000" />
+      <workItem from="1580239552020" duration="238000" />
     </task>
     <servers />
   </component>
@@ -190,14 +191,14 @@
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
     <state width="1637" height="276" key="GridCell.Tab.1.right/0.0.1680.1010@0.0.1680.1010" timestamp="1580057734788" />
-    <state x="341" y="148" key="SettingsEditor" timestamp="1579721150954">
+    <state x="341" y="148" key="SettingsEditor" timestamp="1580239522423">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state x="341" y="148" key="SettingsEditor/0.0.1680.1010@0.0.1680.1010" timestamp="1579721150954" />
-    <state x="536" y="329" key="com.intellij.ide.util.TipDialog" timestamp="1579720922012">
+    <state x="341" y="148" key="SettingsEditor/0.0.1680.1010@0.0.1680.1010" timestamp="1580239522423" />
+    <state x="536" y="329" key="com.intellij.ide.util.TipDialog" timestamp="1580239551418">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state x="536" y="329" key="com.intellij.ide.util.TipDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1579720922012" />
+    <state x="536" y="329" key="com.intellij.ide.util.TipDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1580239551418" />
     <state x="955" y="213" key="extract.method.dialog" timestamp="1579956690737">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
