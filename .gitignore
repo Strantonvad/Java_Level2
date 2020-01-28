@@ -7,6 +7,7 @@
 
 # Log file
 *.log
+chatLog.txt
 
 # BlueJ files
 *.ctxt
