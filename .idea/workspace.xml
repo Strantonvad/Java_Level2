@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3ccf6067-64c5-445d-9110-ec60aa294889" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/gb/jtwo/lfive/online/threads/MainClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Stream200116/ru/gb/jtwo/lthree/online/collections/MainClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Stream200116/ru/gb/jtwo/lthree/online/collections/MainClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/gb/jtwo/lfour/online/ClientGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/gb/jtwo/lfour/online/ClientGUI.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,26 +44,13 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.ClientGUI">
+  <component name="RunManager" selected="Application.MainClass (1)">
     <configuration name="ClientGUI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ru.gb.jtwo.lfour.online.ClientGUI" />
       <module name="Stream200116" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ru.gb.jtwo.lfour.online.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.gb.jtwo.lone.online.Main" />
-      <module name="Stream200116" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ru.gb.jtwo.lone.online.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,6 +77,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ru.gb.jtwo.ltwo.online.exceptions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.gb.jtwo.lfive.online.threads.MainClass" />
+      <module name="Stream200116" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.gb.jtwo.lfive.online.threads.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MainClass (1)" />
         <item itemvalue="Application.ClientGUI" />
         <item itemvalue="Application.ServerGUI" />
         <item itemvalue="Application.MainClass" />
         <item itemvalue="Application.MainCircles" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -186,25 +184,25 @@
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
     <state width="432" height="466" key="DebuggerActiveHint/0.0.1680.1010@0.0.1680.1010" timestamp="1580056830163" />
-    <state width="1637" height="149" key="GridCell.Tab.0.bottom" timestamp="1580242400427">
+    <state width="1637" height="149" key="GridCell.Tab.0.bottom" timestamp="1580717156899">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1637" height="149" key="GridCell.Tab.0.bottom/0.0.1680.1010@0.0.1680.1010" timestamp="1580242400427" />
+    <state width="1637" height="149" key="GridCell.Tab.0.bottom/0.0.1680.1010@0.0.1680.1010" timestamp="1580717156899" />
     <state width="1254" height="131" key="GridCell.Tab.0.bottom/0.23.1680.978/1680.23.1920.1057@0.23.1680.978" timestamp="1579202391830" />
-    <state width="1637" height="149" key="GridCell.Tab.0.center" timestamp="1580242400427">
+    <state width="1637" height="149" key="GridCell.Tab.0.center" timestamp="1580717156899">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1637" height="149" key="GridCell.Tab.0.center/0.0.1680.1010@0.0.1680.1010" timestamp="1580242400427" />
+    <state width="1637" height="149" key="GridCell.Tab.0.center/0.0.1680.1010@0.0.1680.1010" timestamp="1580717156899" />
     <state width="1254" height="131" key="GridCell.Tab.0.center/0.23.1680.978/1680.23.1920.1057@0.23.1680.978" timestamp="1579202391829" />
-    <state width="1637" height="149" key="GridCell.Tab.0.left" timestamp="1580242400426">
+    <state width="1637" height="149" key="GridCell.Tab.0.left" timestamp="1580717156899">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1637" height="149" key="GridCell.Tab.0.left/0.0.1680.1010@0.0.1680.1010" timestamp="1580242400426" />
+    <state width="1637" height="149" key="GridCell.Tab.0.left/0.0.1680.1010@0.0.1680.1010" timestamp="1580717156899" />
     <state width="1254" height="131" key="GridCell.Tab.0.left/0.23.1680.978/1680.23.1920.1057@0.23.1680.978" timestamp="1579202391829" />
-    <state width="1637" height="149" key="GridCell.Tab.0.right" timestamp="1580242400427">
+    <state width="1637" height="149" key="GridCell.Tab.0.right" timestamp="1580717156899">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1637" height="149" key="GridCell.Tab.0.right/0.0.1680.1010@0.0.1680.1010" timestamp="1580242400427" />
+    <state width="1637" height="149" key="GridCell.Tab.0.right/0.0.1680.1010@0.0.1680.1010" timestamp="1580717156899" />
     <state width="1254" height="131" key="GridCell.Tab.0.right/0.23.1680.978/1680.23.1920.1057@0.23.1680.978" timestamp="1579202391830" />
     <state width="1637" height="276" key="GridCell.Tab.1.bottom" timestamp="1580057734788">
       <screen x="0" y="0" width="1680" height="1010" />
@@ -230,17 +228,17 @@
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
     <state x="536" y="329" key="com.intellij.ide.util.TipDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1580239551418" />
-    <state x="955" y="213" key="extract.method.dialog" timestamp="1579956690737">
+    <state x="955" y="213" key="extract.method.dialog" timestamp="1580715303565">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state x="955" y="213" key="extract.method.dialog/0.0.1680.1010@0.0.1680.1010" timestamp="1579956690737" />
+    <state x="955" y="213" key="extract.method.dialog/0.0.1680.1010@0.0.1680.1010" timestamp="1580715303565" />
     <state x="496" y="233" key="run.anything.popup" timestamp="1580055587648">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
     <state x="496" y="233" key="run.anything.popup/0.0.1680.1010@0.0.1680.1010" timestamp="1580055587648" />
-    <state x="503" y="217" width="672" height="678" key="search.everywhere.popup" timestamp="1580052609872">
+    <state x="503" y="217" width="672" height="678" key="search.everywhere.popup" timestamp="1580715233728">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state x="503" y="217" width="672" height="678" key="search.everywhere.popup/0.0.1680.1010@0.0.1680.1010" timestamp="1580052609872" />
+    <state x="503" y="217" width="672" height="678" key="search.everywhere.popup/0.0.1680.1010@0.0.1680.1010" timestamp="1580715233728" />
   </component>
 </project>
